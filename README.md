@@ -82,7 +82,6 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 ### Live Forensics
 
 - [grr](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response
-- [InnerWarden](https://github.com/InnerWarden/innerwarden) - Security agent with built-in forensic capture (process state, network connections, memory maps, hidden process detection via direct /proc reads)
 - :package: [Linux Expl0rer](https://github.com/intezer/linux-explorer) - Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask
 - :package: [mig](https://github.com/mozilla/mig) - Distributed & real time digital forensics at the speed of the cloud
 - [osquery](https://github.com/osquery/osquery) - SQL powered operating system analytics
@@ -325,7 +324,7 @@ Curated list of awesome **free** (mostly open source) forensic analysis tools an
 - [Pentesting](https://github.com/enaqx/awesome-pentest)
 - [Security](https://github.com/sbilly/awesome-security)
 - [Social Engineering](https://github.com/giuliacassara/awesome-social-engineering)
-- [YARA](https://github.com/InQuest/awesome-yara)
+- [YARA](https://github.com/pedramamini/awesome-yara)
 
 ## [Contributing](CONTRIBUTING.md)
 
